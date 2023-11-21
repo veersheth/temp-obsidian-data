@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "274ac6de3663004d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ec6568a7daabd93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6d0cc0a990ab892",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23e2ed32cd2f6f2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f84b4ce0555bfe13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9f275b5324802e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "61789a0f1da834ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0c46d0be6738536",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f07fcb451a456e8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c636ffae134eaac9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a96f11acc46c37c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3741b5fb44d3478",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03860ae1591d6a61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd2be684cf70b8f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c6d0cc0a990ab892",
+  "lastOpenFiles": [
+    "Folder 01/Folder file 010.md",
+    "Folder 01",
+    "00 Style tester.md",
+    "The Martian.md",
+    "Inside the Human Brain.md",
+    "About.md",
+    "The Hobbit.md",
+    "Man's search for meaning.md",
+    "The Kite Runner.md",
+    "10 Example Data/books/books_4.md",
+    "10 Example Data/books/books_3.md",
+    "10 Example Data/books/books_2.md",
+    "10 Example Data/books/books_1.md",
+    "10 Example Data/books",
+    "10 Example Data/assignments/assignment_9.md",
+    "10 Example Data/assignments/assignment_8.md",
+    "10 Example Data/assignments/assignment_7.md",
+    "10 Example Data/assignments/assignment_6.md",
+    "10 Example Data/assignments/assignment_5.md",
+    "10 Example Data/assignments/assignment_4.md",
+    "10 Example Data/assignments/assignment_3.md",
+    "10 Example Data/assignments/assignment_2.md",
+    "10 Example Data/assignments/assignment_12.md",
+    "10 Example Data/assignments/assignment_11.md",
+    "10 Example Data/assignments/assignment_10.md",
+    "10 Example Data/assignments/assignment_1.md",
+    "10 Example Data/assignments",
+    "10 Example Data/Folder Structure and Meta Files/German/Wer die Nachtigall stört/meta.md",
+    "10 Example Data/Folder Structure and Meta Files/German/Wer die Nachtigall stört",
+    "10 Example Data/Folder Structure and Meta Files/German/The Da Vinci Code - Sakrileg/meta.md",
+    "10 Example Data/Folder Structure and Meta Files/German/The Da Vinci Code - Sakrileg",
+    "10 Example Data/Folder Structure and Meta Files/German/Harry Potter/Harry Potter und der Stein der Weisen",
+    "10 Example Data/Folder Structure and Meta Files/German/Harry Potter",
+    "10 Example Data/Folder Structure and Meta Files/German/Die Geisha",
+    "10 Example Data/Folder Structure and Meta Files/German/Der Herr der Ringe/Die Zwei Türme",
+    "10 Example Data/Folder Structure and Meta Files/German/Der Herr der Ringe/Die Rückkehr des Königs",
+    "00 Meta/attachments/flower_growth/flowergrowth6.png",
+    "00 Meta/attachments/flower_growth/flowergrowth5.png",
+    "00 Meta/attachments/flower_growth/flowergrowth4.png",
+    "00 Meta/attachments/flower_growth/flowergrowth3.png",
+    "00 Meta/attachments/flower_growth/flowergrowth2.png",
+    "00 Meta/attachments/flower_growth/flowergrowth1.png",
+    "00 Meta/attachments/vinh-thang-6kvo87bw88I-unsplash.jpg",
+    "00 Meta/attachments/not-referenced-image.png",
+    "00 Meta/attachments/mostafa-meraji-QZxgJ6IaVuk-unsplash.jpg",
+    "00 Meta/attachments/julian-gentilezza-ctUWE7BUEzE-unsplash.jpg"
+  ]
+}
